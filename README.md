@@ -222,11 +222,12 @@ Copy [`.env.example`](.env.example) to `.env`. Never commit real credentials. Se
 
 ## 🖼️ Screenshots
 
-> Screenshots will be added here.
-
-| Dashboard | Feature view |
-|:---------:|:------------:|
-| _Coming soon_ | _Coming soon_ |
+<img width="1898" height="912" alt="Screenshot 2026-10-22 222337" src="https://github.com/user-attachments/assets/bd7f721a-011e-4e3c-bf5f-20bee8d5ac8c" />
+<img width="1906" height="927" alt="Screenshot 2026-10-23 114205" src="https://github.com/user-attachments/assets/f1252c71-1c8e-4701-bc92-cd3b25adda79" />
+<img width="1917" height="861" alt="Screenshot 2026-10-22 222350" src="https://github.com/user-attachments/assets/d5cfcd79-3d5d-44b2-bd1d-b3e7b79db7e6" />
+<img width="1882" height="920" alt="Screenshot 2026-10-22 222415" src="https://github.com/user-attachments/assets/6691545c-429b-4adb-989e-fe346f3a3dfe" />
+<img width="1900" height="872" alt="Screenshot 2026-10-22 222446" src="https://github.com/user-attachments/assets/60410d8e-65de-47b1-bbc9-2c76befa041a" />
+<img width="898" height="782" alt="Screenshot 2026-10-23 144607" src="https://github.com/user-attachments/assets/8cb383db-8864-40da-8bec-da70fb547837" />
 
 <!-- TODO(user): add real screenshots to a docs/screenshots/ folder and reference them here. Do not link images that do not exist. -->
 
